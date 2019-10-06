@@ -1,4 +1,4 @@
 # Tvseriesdisplay
- A webapp which fetches the data from the tvmaze api, and displays the list .including a internal link which tkes the user to the description of the tv-series
+ A webapp which fetches data from the tvmaze api, and displays the list.Including aninternal link which takes the user to the description of the tv-series.
 
-tvmaze api is used for gathering data.
+Tvmaze api is used for gathering data.
